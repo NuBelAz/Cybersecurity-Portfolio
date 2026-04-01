@@ -13,12 +13,14 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 ## Certifications & Training
 
 ### Completed
-- TryHackMe: Introduction to Cybersecurity ✓
+- TryHackMe: Introduction to Cybersecurity 
+- TryHackMe Pre-Security: How the Web Works 
+- TryHackMe Pre-Security: Computer Fundamentals 
 
 ### In Progress
+- TryHackMe: Pre-Security Path (Network/Linux/Windows Fundamentals)
 - CompTIA Security+ (Studying)
 - Google Cybersecurity Professional Certificate
-- TryHackMe: Pre-Security Path
 
 ### Planned
 - Blue Team Level 1 (BTL1)
