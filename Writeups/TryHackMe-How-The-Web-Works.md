@@ -1,7 +1,7 @@
 # TryHackMe: [How The Web Works]
 
 **Completed:** [March 2026]  
-**Status:** ✅ Complete
+**Status:** Complete
 
 ## What I Learned
 
