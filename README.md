@@ -13,20 +13,24 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 ## Certifications & Training
 
 ### Completed
-- TryHackMe: Introduction to Cybersecurity 
-- TryHackMe: Pre-Security Path (Modules 1-7) 
-  - How the Web Works 
-  - Computer Fundamentals 
-  - Operating System Basics
-  - Software Basics 
-  - Attacks & Defenses
+- **TryHackMe: Introduction to Cybersecurity** ✓
+- **TryHackMe: Pre-Security Path (Complete)** ✓
+  - Introduction to Cybersecurity ✓
+  - How the Web Works ✓
+  - Computer Fundamentals ✓
+  - Operating Systems Fundamentals (Windows & Linux) ✓
+  - Data Handling & Programming Basics (Python, JavaScript, SQL) ✓
+  - Security Mindset & Real-World Security ✓
+
 ### In Progress
-- CompTIA Security+ (Studying)
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate (Starting)
+- CompTIA Security+ (Studying with Professor Messer)
 
 ### Planned
-- Blue Team Level 1 (BTL1)
+- TryHackMe: SOC Level 1 Path (Month 3-4)
+- Blue Team Level 1 (BTL1) Certification
 - eCIR (eLearnSecurity Certified Incident Responder)
+  
 
 ## Skills & Technologies
 
