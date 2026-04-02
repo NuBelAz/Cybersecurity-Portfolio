@@ -30,6 +30,9 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 - TryHackMe: SOC Level 1 Path (Month 3-4)
 - Blue Team Level 1 (BTL1) Certification
 - eCIR (eLearnSecurity Certified Incident Responder)
+- Google Cybersecurity Professional Certificate (Starting)
+- CompTIA Security+ (Studying with Professor Messer)
+
   
 
 ## Skills & Technologies
@@ -54,7 +57,7 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 
 ## Projects
 
-*Projects will be added as I complete them. will include detailed writeups, methodology, and lessons learned.*
+*Projects will be added as I complete them. will include writeups, methodology, and lessons learned.*
 
 ### Planned Projects:
 1. Home SIEM Lab - Security monitoring and alert detection
