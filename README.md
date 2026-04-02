@@ -23,7 +23,7 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
   - Security Mindset & Real-World Security ✓
 
 ### In Progress
-**LetsDefend** SOC Analyst Path
+- **LetsDefend SOC Analyst Path
 
 ### Planned
 - TryHackMe: SOC Level 1 Path (Month 3-4)
