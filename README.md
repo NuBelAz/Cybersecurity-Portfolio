@@ -14,11 +14,13 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 
 ### Completed
 - TryHackMe: Introduction to Cybersecurity 
-- TryHackMe Pre-Security: How the Web Works 
-- TryHackMe Pre-Security: Computer Fundamentals 
-
+- TryHackMe: Pre-Security Path (Modules 1-7) 
+  - How the Web Works 
+  - Computer Fundamentals 
+  - Operating System Basics
+  - Software Basics 
+  - Attacks & Defenses
 ### In Progress
-- TryHackMe: Pre-Security Path (Network/Linux/Windows Fundamentals)
 - CompTIA Security+ (Studying)
 - Google Cybersecurity Professional Certificate
 
@@ -64,7 +66,7 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 
 ## Contact & Links
 - **GitHub:** github.com/NubelAz
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/eddiel-dejesus-csecurity/
 - **Location:** Florida, USA
 - **Career Goal:** Entry-level Security Analyst / SOC Analyst position
 
