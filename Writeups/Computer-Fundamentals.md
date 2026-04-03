@@ -1,6 +1,6 @@
 # TryHackMe: Computer Fundementals
 
-**Completed:** [March 2026]  
+**Completed:** March 2026
 **Status:** Complete
 
 ## What I Learned
