@@ -2,8 +2,7 @@
 
 **Platform:** LetsDefend.io  
 **Completed:** April 2026  
-**Status:** ✅ Complete  
-**Course Type:** Free Training
+**Status:** Complete  
 
 ---
 
