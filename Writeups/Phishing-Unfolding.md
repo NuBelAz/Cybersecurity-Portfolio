@@ -71,12 +71,7 @@ A user reported receiving a suspicious email that appeared to be from a trusted 
 - Detection Rate: 45/72 (62% detection)
 - Classification: Trojan.Downloader / InfoStealer
 - First Submission: 3 days ago (very recent - active campaign)
-
-**Campaign Timeline:**
-- First observed: April 20, 2026
-- Peak activity: April 22-24, 2026
-- Our detection: April 26, 2026 (response time: 6 days - improvement needed)
-
+- 
 --- 
 
 ### Immediate Containment (T+0 to T+1 Hour)
