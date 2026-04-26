@@ -68,7 +68,7 @@ Analysis Steps:
 2. Checked domain registration date (newly registered = red flag)
 3. Analyzed URL structure for credential harvesting patterns
 4. Checked VirusTotal for known malicious reputation
-```
+
 
 **URL Indicators:**
 - Domain registered recently (within days/weeks)
